@@ -10,7 +10,7 @@ const config = async function createConfig() {
     title: 'Homarr Docs',
     tagline: 'A simple, yet powerful dashboard for your server.',
     url: 'https://homarr.dev',
-    baseUrl: '/',
+    baseUrl: '/linux-book/build/',
     favicon: 'img/favicon.png',
     // Used for publishing to GitHub Pages
     organizationName: 'ajnart',
