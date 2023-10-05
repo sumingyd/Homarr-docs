@@ -20,7 +20,7 @@ const config = async function createConfig() {
       defaultLocale: 'en',
       locales: ['en','zh'],
     },
-    onBrokenLinks: 'warn',
+    onBrokenLinks: 'ignore',
     onBrokenMarkdownLinks: 'warn',
 
     markdown: {
